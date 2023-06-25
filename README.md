@@ -1,7 +1,7 @@
 #  Object Oriented Programming Course Project: Multiplication Table Practice
 
 In this project, you are expected to create a project that will help elementary school children memorize multiplication tables, and your project 
-should have a graphical user interface (GUI). Projects that only work in the command line will not be considered for evaluation. 
+should have a graphical user interface (GUI).  
 The required features for your assignment are listed below:
 
 When the game is opened, the user should be prompted to log in. The program should have one parent user and multiple child users.
